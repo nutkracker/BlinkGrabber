@@ -1,0 +1,7 @@
+{
+     "emailaddress": "Blink Username Goes Here",
+     "password": "Blink Password Goes Here",
+     "syncmod": "Name Of Blink Sync Module (case sensitive!)",
+     "cameraID": Numeric ID Of Camera,
+     "intervalInMillisecs": 60000
+}
